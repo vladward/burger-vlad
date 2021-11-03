@@ -1,1 +1,1 @@
-# burger-vlad
+# https://vladward.github.io/burger-vlad/
